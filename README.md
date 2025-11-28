@@ -22,6 +22,7 @@
 <img src="https://skillicons.dev/icons?i=docker" width="32" />
 
 <!-- EXTRA AI TECH -->
+<br>
 
 <img src="https://img.shields.io/badge/YOLO-vision-orange" height="22" />
 <img src="https://img.shields.io/badge/Ultralytics-AI-blue?logo=github" height="22" />
