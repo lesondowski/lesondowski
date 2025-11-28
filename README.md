@@ -53,4 +53,4 @@
 
 ## 📫 Contact
 You can find me on GitHub: [lesondowski](https://github.com/lesondowski)  
-Or reach out via email / LinkedIn / any platform you prefer — I'm always open to collaboration!  
+Or reach out via email : [Lsonofficial09@gmail.com](Lsonofficial09@gmail.com)  
