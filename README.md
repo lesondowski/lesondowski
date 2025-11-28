@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://via.placeholder.com/1200x300?text=AI+Engineer+%7C+Machine+Learning+Developer" alt="Banner">
+  <img src="https://github.com/lesondowski/lesondowski/blob/main/Banner.png?raw=true" width="100%" alt="Banner">
 </p>
+
 
 <div align="center">
 
