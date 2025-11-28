@@ -6,12 +6,10 @@
 <div align="center">
 
 <!-- PROGRAMMING LANGUAGES -->
-<b>Programming Languages</b><br>
+<b>AI Optimization & Tooling</b><br>
 
 <img src="https://skillicons.dev/icons?i=python" width="32" />
 <img src="https://skillicons.dev/icons?i=cpp" width="32" />
-<img src="https://skillicons.dev/icons?i=rust" width="32" />
-<img src="https://skillicons.dev/icons?i=java" width="32" />
 <img src="https://skillicons.dev/icons?i=pytorch" width="32" />
 <img src="https://skillicons.dev/icons?i=tensorflow" width="32" />
 <img src="https://skillicons.dev/icons?i=scikitlearn" width="32" />
@@ -20,13 +18,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="32" />
 <img src="https://skillicons.dev/icons?i=html" width="32" />
 <img src="https://skillicons.dev/icons?i=css" width="32" />
-<img src="https://skillicons.dev/icons?i=javascript" width="32" />
 <img src="https://skillicons.dev/icons?i=ts" width="32" />
 <img src="https://skillicons.dev/icons?i=docker" width="32" />
 
 <!-- EXTRA AI TECH -->
-
-<b>AI Optimization & Tooling</b><br>
 
 <img src="https://img.shields.io/badge/YOLO-vision-orange" height="22" />
 <img src="https://img.shields.io/badge/Ultralytics-AI-blue?logo=github" height="22" />
