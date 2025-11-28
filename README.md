@@ -1,16 +1,55 @@
-## Hi there 👋
+<p align="center">
+  <img width="100%" src="https://via.placeholder.com/1200x300?text=AI+Engineer+%7C+Machine+Learning+Developer" alt="Banner">
+</p>
 
-<!--
-**lesondowski/lesondowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<!-- PROGRAMMING LANGUAGES -->
+<b>Programming Languages</b><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=python" width="32" />
+<img src="https://skillicons.dev/icons?i=cpp" width="32" />
+<img src="https://skillicons.dev/icons?i=rust" width="32" />
+<img src="https://skillicons.dev/icons?i=java" width="32" />
+<img src="https://skillicons.dev/icons?i=pytorch" width="32" />
+<img src="https://skillicons.dev/icons?i=tensorflow" width="32" />
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="32" />
+<img src="https://skillicons.dev/icons?i=opencv" width="32" />
+<img src="https://skillicons.dev/icons?i=anaconda" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="32" />
+<img src="https://skillicons.dev/icons?i=html" width="32" />
+<img src="https://skillicons.dev/icons?i=css" width="32" />
+<img src="https://skillicons.dev/icons?i=javascript" width="32" />
+<img src="https://skillicons.dev/icons?i=ts" width="32" />
+<img src="https://skillicons.dev/icons?i=docker" width="32" />
+
+<!-- EXTRA AI TECH -->
+
+<b>AI Optimization & Tooling</b><br>
+
+<img src="https://img.shields.io/badge/YOLO-vision-orange" height="22" />
+<img src="https://img.shields.io/badge/Ultralytics-AI-blue?logo=github" height="22" />
+<img src="https://img.shields.io/badge/ONNX-Model-blue?logo=onnx&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/TensorRT-green?logo=nvidia&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" height="22" />
+
+</div>
+
+<br>
+
+---
+
+
+## 🤖 Expertise & Key Skills
+- Machine Learning & Deep Learning (PyTorch, TensorFlow, Scikit-Learn)  
+- Computer Vision: Object Detection, Segmentation, Tracking (YOLO / Ultralytics)  
+- Data processing & experimentation with Jupyter Notebook / Anaconda  
+- Model optimization & inference acceleration (ONNX, TensorRT, CUDA)  
+- AI Deployment & DevOps: Docker, Kubernetes, Cloud (AWS, GCP)  
+- Web & backend fundamentals: HTML / CSS / JavaScript / TypeScript  
+
+---
+
+## 📫 Contact
+You can find me on GitHub: [lesondowski](https://github.com/lesondowski)  
+Or reach out via email / LinkedIn / any platform you prefer — I'm always open to collaboration!  
