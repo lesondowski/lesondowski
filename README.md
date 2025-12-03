@@ -44,9 +44,3 @@
 - Model optimization & inference acceleration (ONNX, TensorRT, CUDA)  
 - AI Deployment & DevOps: Docker, Kubernetes, Cloud (AWS, GCP)  
 - Web & backend fundamentals: HTML / CSS / JavaScript / TypeScript  
-
----
-
-## 📫 Contact
-You can find me on GitHub: [lesondowski](https://github.com/lesondowski)  
-Or reach out via email : [Lsonofficial09@gmail.com](Lsonofficial09@gmail.com)  
