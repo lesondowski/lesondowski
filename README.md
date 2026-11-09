@@ -41,6 +41,4 @@
 - Machine Learning & Deep Learning (PyTorch, TensorFlow, Scikit-Learn)  
 - Computer Vision: Object Detection, Segmentation, Tracking (YOLO / Ultralytics)  
 - Data processing & experimentation with Jupyter Notebook / Anaconda  
-- Model optimization & inference acceleration (ONNX, TensorRT, CUDA)  
-- AI Deployment & DevOps: Docker, Kubernetes, Cloud (AWS, GCP)  
-- Web & backend fundamentals: HTML / CSS / JavaScript / TypeScript  
+- Model optimization & inference acceleration (ONNX, TensorRT, CUDA)
